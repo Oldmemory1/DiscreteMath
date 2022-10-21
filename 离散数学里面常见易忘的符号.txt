@@ -15,3 +15,5 @@ R|\ A={<x,y>,xRy∧x∈A} 指R在A上的限制
 R[A] 指A在R下的像 R[A]=ran(R|\ A)
 R^-1 指R的逆关系
 F。G 指G对F的右复合（很像复合函数）
+IA 恒等关系，指{<x,x>|x∈A}
+EA 全域关系，指AxA
